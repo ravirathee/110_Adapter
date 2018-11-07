@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">110_Adapter</string>
+
+    <string-array name="abc">
+        <item>hello</item>
+        <item>welcome</item>
+        <item>to</item>
+        <item>the</item>
+        <item>future</item>
+    </string-array>
+
+</resources>
